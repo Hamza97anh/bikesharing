@@ -1,4 +1,4 @@
-# bikesharing
+# Bikesharing
 [Link to the Dashboard](https://public.tableau.com/app/profile/hamza.a.mohammedsadeeq/viz/BikesharingDeliverable/CitiBikeStory?publish=yes)
 
 ## Overview of the analysis:
